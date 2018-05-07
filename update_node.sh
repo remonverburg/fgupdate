@@ -1,8 +1,8 @@
 #!/bin/bash
 
-TARBALLURL="https://github.com/MajorLeagueDFS/FantasyGold/releases/download/1.0.0/linux.tar.gz"
+TARBALLURL="https://github.com/FantasyGold/FantasyGold-Core/releases/download/1.2.4/FantasyGold-1.2.4-Linux-x64.tar.gz"
 TARBALLNAME="linux.tar.gz"
-FGCVERSION="1.0.0"
+FGCVERSION="1.2.4"
 
 CHARS="/-\|"
 

@@ -1,8 +1,8 @@
 #!/bin/bash
 clear
 
-TARBALLURL="https://github.com/FantasyGold/FantasyGold-Core/releases/download/20181107152735-7cdaa33/i686-pc-linux-gnu.tar.gz"
-TARBALLNAME="i686-pc-linux-gnu.tar.gz"
+TARBALLURL="https://github.com/remonverburg/fgupdate/releases/download/12/126-fgc.tar.gz"
+TARBALLNAME="126-fgc.tar.gz"
 FGCVERSION="1.2.6"
 
 CHARS="/-\|"

@@ -1,7 +1,7 @@
 #!/bin/bash
 clear
 
-TARBALLURL="https://github.com/remonverburg/fgupdate/releases/download/12/126-fgc.tar.gz"
+TARBALLURL="https://github.com/remonverburg/fgupdate/releases/download/untagged-3543f9d33e62a4e097c4/126-fgc.tar.gz"
 TARBALLNAME="126-fgc.tar.gz"
 FGCVERSION="1.2.6"
 

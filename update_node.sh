@@ -3,8 +3,8 @@ clear
 #aaaa
 ##bash <( curl https://raw.githubusercontent.com/ktjbrowne/FGC-MN-Install/master/install.sh )
 # Set these to change the version of FantasyGold to install
-TARBALLURL="https://github.com/remonverburg/fgupdate/releases/download/untagged-3543f9d33e62a4e097c4/126-fgc.tar.gz"
-TARBALLNAME="126-fgc.tar.gz"
+TARBALLURL="https://github.com/FantasyGold/FantasyGold-Core/releases/download/20181107152735-7cdaa33/FantasyGold-1.2.6-Linux-x64.tar.gz"
+TARBALLNAME="FantasyGold-1.2.6-Linux-x64.tar.gz"
 FGCVERSION="1.2.6"
 BOOTSTRAPURL="https://github.com/FantasyGold/FantasyGold-Core/releases/download/v1.2.5/FGC-Bootstrap-1.2.5.tar.gz"
 BOOTSTRAPFILE="FGC-Bootstrap-1.2.5.tar.gz"
